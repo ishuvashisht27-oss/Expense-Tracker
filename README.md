@@ -13,9 +13,9 @@ A lightweight Command Line Interface (CLI) application built in Python to track 
 2. Download the script file.
 3. Run the script in your terminal:
    ```bash
-   python expense_tracker.py
+   python Expense.py
    ```
 
 ## File Structure
-* `expense_tracker.py` - The main Python program.
+* `Expense.py` - The main Python program.
 * `expense.csv` - The local file where data automatically saves.
